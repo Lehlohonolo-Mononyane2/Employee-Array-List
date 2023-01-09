@@ -3,12 +3,12 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package vut.gui;
+package Project.gui;
 
 import java.util.ArrayList;
 import javax.swing.JOptionPane;
-import vut.data.Address;
-import vut.data.Employee;
+import Project.data.Address;
+import Project.data.Employee;
 
 /**
  * Accept an employee's data and store it in an array list

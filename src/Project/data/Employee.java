@@ -1,5 +1,5 @@
 
-package vut.data;
+package Project.data;
 
 /**
  Store the staff number, name and salary of an employee
